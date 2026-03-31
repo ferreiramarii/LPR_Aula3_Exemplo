@@ -16,4 +16,6 @@ int main() {
 
     return 0; 
     cout << "Mari" << endl;
+
+    string NomeDoColega = "Tuany";
 }
